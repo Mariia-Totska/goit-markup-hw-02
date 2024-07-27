@@ -139,11 +139,11 @@ color: #404bbf;
         color: #2e2f42;
 }
 
-.our-team-list {
+.our-team-list {}
+
+.our-team-item {
     background-color: #FFFFFF;
 }
-
-.our-team-item {}
 
 
 
@@ -181,11 +181,7 @@ color: #404bbf;
         color: #2e2f42;
 }
 
-.our-portfolio-list {}
-
-.our-portfolio-item {
-    background-color: #FFFFFF;
-}
+.our-portfolio-item {}
 
 .portfolio-names {
         font-weight: 500;
