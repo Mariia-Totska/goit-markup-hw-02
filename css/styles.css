@@ -21,7 +21,7 @@ button {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-    color: #4d5ae5;
+        color: #4d5ae5;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
@@ -91,11 +91,9 @@ color: #404bbf;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background-color: #4d5ae5;
         }
 .hero-button:hover, .hero-button:focus {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background-color: #404bbf;
 }
 /* #endregion Hero */
