@@ -183,7 +183,9 @@ color: #404bbf;
 
 .our-portfolio-list {}
 
-.our-portfolio-item {}
+.our-portfolio-item {
+    background-color: #FFFFFF;
+}
 
 .portfolio-names {
         font-weight: 500;
@@ -191,7 +193,6 @@ color: #404bbf;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
-        background-color: #FFFFFF;
 }
 
 .portfolio-text {
@@ -222,10 +223,8 @@ color: #404bbf;
     color: #F4F4FD;
 }
 
-.footer-title {}
 
 .footer-text {
-    font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
