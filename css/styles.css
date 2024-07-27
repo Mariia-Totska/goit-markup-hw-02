@@ -183,9 +183,7 @@ color: #404bbf;
 
 .our-portfolio-list {}
 
-.our-portfolio-item {
-    background-color: #FFFFFF
-}
+.our-portfolio-item {}
 
 .portfolio-names {
         font-weight: 500;
@@ -193,6 +191,7 @@ color: #404bbf;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        background-color: #FFFFFF;
 }
 
 .portfolio-text {
